@@ -46,7 +46,7 @@
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [
         {
-            "Title": "2x School",
+            "Title": "6figr",
             "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
             "imgs": [
                 "assets/images/6figr/image1.png",

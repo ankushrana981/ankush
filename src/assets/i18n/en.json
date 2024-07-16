@@ -6,52 +6,39 @@
     "Header.cvBtn": "Resume",
     "Header.cvName": "MUFFEEZ_CV.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>3 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
+    "Banner.Description": "I have <span class='underline'>2 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS and MongoDB </span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
         "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
         {
-            "Tab": "Emblem",
-            "Title": "Fullstack developer",
-            "Date": "March 2022 - Present",
+            "Tab": "Bepoj Tech",
+            "Title": "Angular developer",
+            "Date": "April 2021 - Present",
             "Description": [
                 "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
                 "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
                 "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
                 "Implementation of continuous integration and daily backups.",
-                "Leading a team of 4 people in the development of a E-commerce platform made in React, Node, and MySQL.",
+                "Leading a team of 4 people in the development of a E-commerce platform made in Angular, Node, and MySQL.",
                 "Planning meetings in reports."
             ]
         },
         
-        {
-            "Tab": "BCM",
-            "Title": "Frontend developer",
-            "Date": "October 2020 - Feburary 2022",
-            "Description": [
-                "Developed and maintained web applications using Angular and React.",
-                "Implementation CI / CD in AWS. Refactoring and optimizing application load times.",
-                "Coding of API requests with RxJS.",
-                "Creation of modules with complex reactive forms",
-                "Improved website performance by optimizing images and implementing caching techniques.",
-                "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
-            ]
-        },
         {
             "Tab": "Freelancer",
             "Title": "Independent",
             "Date": "March 2020 - Present",
             "Description": [
                 "Implementing continuous improvements, working on frontend and backend.",
-                "Creating platforms with Angular, Nodejs, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
+                "Creating platforms with Angular, Nodejs, ExpressJS, reactive.",
                 "Automation of processes with data structures.",
-                "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
+                "Design layout with SASS, Bootstrap, Materialize etc."
             ]
         }
     ],
@@ -62,8 +49,8 @@
             "Title": "2x School",
             "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
             "imgs": [
-                "assets/images/school/image1.png",
-                "assets/images/school/image2.png"
+                "assets/images/6figr/image1.png",
+                "assets/images/6figr/image2.png"
             ],
             "Technologies": [
                 "Angular",

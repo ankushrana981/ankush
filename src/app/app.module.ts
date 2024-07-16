@@ -8,6 +8,7 @@ import { GeneralModule } from './components/general/general.module';
 import { HttpClient, provideHttpClient, withFetch } from '@angular/common/http';
 import { TranslateModule, TranslateLoader, TranslateService } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { HomeModule } from './components/home/home.module';
 
 
 export function HttpLoaderFactory(http: HttpClient){
@@ -21,6 +22,7 @@ export function HttpLoaderFactory(http: HttpClient){
     BrowserModule,
     AppRoutingModule,
     NgbModule,
+    HomeModule,
     GeneralModule,
     TranslateModule.forRoot({
       loader: {

@@ -47,7 +47,7 @@
     "FeatureProjects.Projects": [
         {
             "Title": "6figr",
-            "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "Description": "Online salary comparison platform where it allows users to search for salaries and compensation for various careers based on, <span class='underline'>company</span>, <span class='underline'>designation</span>, and <span class='underline'>college</span>. It uses AI and ML algorithms that combine user submissions, job postings, and publicly available data to collect and analyze salary information.",
             "imgs": [
                 "assets/images/6figr/image1.png",
                 "assets/images/6figr/image2.png"
@@ -107,53 +107,39 @@
     "OtherProjects.Title": "More personal projects",
     "OtherProjects.Projects": [
         {
-            "Title": "Covid Tracker",
-            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
-            "ghLink": "https://github.com/mufeez1/carona19-tracker",
-            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "Title": "Nooralajla-Rental Car",
+            "Description": "At Nooralajla, we transcend mere car rentals; we're your gateway to unforgettable journeys.. Whether you're planning a weekend getaway, a business trip, or an adventure with friends and family, we're here to provide you with the perfect vehicle to suit your needs.",
+            "ghLink": "https://github.com/ankushrana981/Nooralajla",
+            "demoLink": "https://www.nooralajla.com/",
             "Technologies": [
-                "Angular",
-                "RxJs",
-                "API",
+                "HTML",
+                "CSS",
+                "JavaScript",
                 "Bootstrap"
             ]
         },
         {
             "Title": "Lets Chat",
-            "Description": "A real-time chat application. Another fun side project :)",
-            "ghLink": "https://github.com/mufeez1/lets-chat",
+            "Description": "Multiple User chat application. Another fun side project :)",
+            "ghLink": "https://github.com/ankushrana981/ng-chat-ui",
             "Technologies": [
-                "React",
-                "SASS",
-                "Socket.io",
+                "Angular",
+                "CSS",
                 "NodeJS",
                 "ExpressJS",
-                "Firebase"
-            ]
-        },
-        {
-            "Title": "Quiz App",
-            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-            "ghLink": "https://github.com/mufeez1/quizapp",
-            "demoLink": "https://github.com/mufeez1/quizapp",
-            "Technologies": [
-                "React",
-                "SASS",
-                "TypeScript",
-                "API",
-                "3rd Party Library"
+                "MongoDB"
             ]
         },
         {
             "Title": "JWT Integration",
             "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
-            "ghLink": "https://github.com/mufeez1/node-jwt",
-            "demoLink": "https://github.com/mufeez1/node-jwt",
+            "ghLink": "https://github.com/ankushrana981/simple-crud-app-backend",
+            "demoLink": "https://github.com/ankushrana981/simple-crud-app-backend",
             "Technologies": [
-                "React",
+                "NodeJS",
                 "JWT",
                 "ExpressJS",
-                "POSTGREESQL"
+                "MongoDB"
             ]
         }
     ],
